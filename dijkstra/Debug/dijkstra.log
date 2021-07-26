@@ -1,0 +1,9 @@
+﻿  dijkstra.cpp
+  Edge.cpp
+  Graph.cpp
+C:\Users\hao\Desktop\dijkstra\dijkstra\dijkstra\Graph.cpp(21,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hao\Desktop\dijkstra\dijkstra\dijkstra\Graph.cpp(33,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hao\Desktop\dijkstra\dijkstra\dijkstra\Graph.cpp(40,20): warning C4018: '<': signed/unsigned mismatch
+  Point.cpp
+  Generating Code...
+  dijkstra.vcxproj -> C:\Users\hao\Desktop\dijkstra\dijkstra\Debug\dijkstra.exe
